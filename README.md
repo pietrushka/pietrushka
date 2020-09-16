@@ -3,7 +3,7 @@
 ## I'm a learning full time to become software developer !
 
 - 🔭 I’m currently working on a Shared-Workspace !
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js
 - 🥅 2020 Goal: Find a job 
 - ⚡ Hobbies: I listen to podcasts and audiobooks
 
