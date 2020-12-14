@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a Shared-Workspace !
 - 🌱 I’m currently learning TypeScript
-- 🥅 2020 Goal: Find a job 
 - ⚡ Hobbies: I listen to podcasts and audiobooks
 
 <br />
