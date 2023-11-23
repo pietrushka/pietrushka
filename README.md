@@ -1,16 +1,11 @@
 ### Hi there, I'm Piotr - aka pietushka 👋
 
-## I'm a learning full time to become software developer !
-
-- 🔭 I’m currently working on a Shared-Workspace !
-- 🌱 I’m currently learning TypeScript
-- ⚡ Hobbies: I listen to podcasts and audiobooks
+## I'm a Fullstack Typescript Developer
 
 <br />
 
-### Connect with me:
+### Contact me:
 email: wisniewski.contact@gmail.com
-[<img align="left" alt="piotrwisniewski.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Piotr Wiśniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
