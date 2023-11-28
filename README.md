@@ -6,7 +6,12 @@
 
 ### Contact me:
 email: wisniewski.contact@gmail.com
+<br />
+<br />
 [<img align="left" alt="Piotr Wiśniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<br />
+[LeetCode][leetcode]
 
 <br />
 
@@ -28,4 +33,5 @@ email: wisniewski.contact@gmail.com
 
 [website]: https://piotrwisniewski.me
 [linkedin]: https://www.linkedin.com/in/piotr-wi%C5%9Bniewski-94136b1a7/
+[leetcode]: https://leetcode.com/pietrushka/
 
