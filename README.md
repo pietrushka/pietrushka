@@ -11,7 +11,7 @@ email: wisniewski.contact@gmail.com
 [<img align="left" alt="Piotr Wiśniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
-[![Leetcode Stats](https://leetcard.jacoblin.cool/pietrushka)](https://leetcode.com/pietrushka)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/pietrushka?ext=heatmap)](https://leetcode.com/pietrushka)
 
 <br />
 
