@@ -15,7 +15,7 @@ email: wisniewski.contact@gmail.com
 
 <br />
 
-### Languages and Tools:
+### Tech stack:
 
 <img align="left" alt="TypeScript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
